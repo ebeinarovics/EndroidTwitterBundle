@@ -14,7 +14,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "ebeinarovic/twitter": "~1.0"
+        "ebeinarovic/twitter": "*"
     },
     "autoload": {
         "psr-0": { "Endroid\\Bundle\\TwitterBundle": "" }
